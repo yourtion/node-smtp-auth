@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Auth user from smtp server",
   "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
+    "prepublishOnly": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -1,0 +1,27 @@
+{
+  "name": "smtp-auth",
+  "version": "1.0.0",
+  "description": "Auth user from smtp server",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourtion/node-smtp-auth.git"
+  },
+  "keywords": [
+    "smtp",
+    "smpt-auth",
+    "smtp-user"
+  ],
+  "author": "Yourtion <yourtion@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourtion/node-smtp-auth/issues"
+  },
+  "homepage": "https://github.com/yourtion/node-smtp-auth#readme",
+  "devDependencies": {
+    "@types/node": "^10.0.4"
+  }
+}
